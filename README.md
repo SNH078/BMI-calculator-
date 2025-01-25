@@ -28,10 +28,10 @@ json
 
 4--
 ```git init```
+
 5-- ```git add.```
 
-4- Build the React app: Run:
-```npm run build```
 
-5- Deploy: After the build is created, you can deploy it with:
+
+6- Deploy: this runs predeploy first then deploy
 ```npm run deploy```
